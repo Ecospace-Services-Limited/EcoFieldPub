@@ -4,7 +4,9 @@ This is the repo that contains our Mobile Apps for our own research and for our 
 ### Introduction
 This is EcoField Mobile GIS App for collecting ground based GIS data from the filed, under near-real time supervision by a field based Project Administrator.
 
-<img src = "https://github.com/Ecospace-Services-Limited/EcoFieldPub/blob/main/deploy/gifs/1.gif"> <img src = "https://github.com/Ecospace-Services-Limited/EcoFieldPub/blob/main/deploy/gifs/3.gif">
+<img src = "https://github.com/Ecospace-Services-Limited/EcoFieldPub/blob/main/deploy/gifs/1.gif"> <img src = "https://github.com/Ecospace-Services-Limited/EcoFieldPub/blob/main/deploy/gifs/3.gif"> <br>
+
+<img src = "https://github.com/Ecospace-Services-Limited/EcoFieldPub/blob/main/deploy/gifs/4.gif"> <img src = "https://github.com/Ecospace-Services-Limited/EcoFieldPub/blob/main/deploy/gifs/5.gif"> <br>
 
 ### Project Technical Deliverables
 
